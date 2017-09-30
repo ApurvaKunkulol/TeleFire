@@ -1,7 +1,7 @@
 __author__ = 'LENOVO'
 
 from django.conf.urls import url
-from .import views
+from . import views
 
 app_name = "decision_maker"
 urlpatterns = [
