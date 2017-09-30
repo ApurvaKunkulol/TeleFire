@@ -1,0 +1,8 @@
+TeleFire
+
+Notify users based on the scenario.
+Decide response based on the severity 
+
+Resources:
+To send SMS to any number for free: 
+GlobFone: https://globfone.com/thank-you
