@@ -5,6 +5,6 @@ from .import views
 
 app_name = "decision_maker"
 urlpatterns = [
-    url(r'^$', views.index, name='dm_index')
+    url(r'^$', views.CallUser.as_view(), name='dm_index')
 ]
 
